@@ -1,0 +1,190 @@
+Anotado 2M2 como R40.
+Anotado 220K como R29.
+Anotado 4M7 como R30.
+Anotado 470K como R31.
+Anotado 220K como R32.
+Anotado 220K como R33.
+Anotado 4K7 como R34.
+Anotado 330K como R35.
+Anotado 220K como R36.
+Anotado 22K como R37.
+Anotado 1M como R38.
+Anotado 1M como R39.
+Anotado 100K como R28.
+Anotado 470 como R41.
+Anotado 1M como R42.
+Anotado 1M como R43.
+Anotado 10K como R44.
+Anotado 220K como R45.
+Anotado 220K como R46.
+Anotado 2K2 como R47.
+Anotado 220K como R48.
+Anotado 100K como R49.
+Anotado 100K como R50.
+Anotado 1M como R51.
+Anotado 1K5 como R16.
+Anotado 68k como R5.
+Anotado 68k como R6.
+Anotado 1M como R7.
+Anotado 470 como R8.
+Anotado 820 como R9.
+Anotado 820 como R10.
+Anotado 100K como R11.
+Anotado 100K como R12.
+Anotado 1K5 como R13.
+Anotado 100K como R14.
+Anotado 100K como R15.
+Anotado 220K como R52.
+Anotado 6k8 como R17.
+Anotado 6k8 como R18.
+Anotado 1k como R19.
+Anotado 1k como R20.
+Anotado 100K como R21.
+Anotado 100K como R22.
+Anotado 47K como R23.
+Anotado 4k7 5W como R24.
+Anotado 1K5 como R25.
+Anotado 1K 1W como R26.
+Anotado 100K como R27.
+Anotado ECC83 (unidad B) como U3B.
+Anotado 50K LIN como RV12.
+Anotado sw (unidad A) como SW1A.
+Anotado sw (unidad A) como SW2A.
+Anotado sw (unidad A) como SW3A.
+Anotado sw (unidad A) como SW4A.
+Anotado sw (unidad A) como SW5A.
+Anotado Transformer_1P_1S como T1.
+Anotado Transformer_1P_2S_novivox como T2.
+Anotado Transformer_SP_1S como T3.
+Anotado ECL86 (unidad B) como U1B.
+Anotado ECC83 (unidad B) como U2B.
+Anotado 1M como RV11.
+Anotado ECC83 (unidad A) como U2A.
+Anotado ECC83 (unidad A) como U3A.
+Anotado ECC83 (unidad B) como U4B.
+Anotado ECC83 (unidad A) como U4A.
+Anotado ECC83 (unidad B) como U5B.
+Anotado ECC83 (unidad A) como U5A.
+Anotado ECC83 (unidad A) como U6A.
+Anotado ECC83 (unidad B) como U6B.
+Anotado EL34 (unidad A) como U7A.
+Anotado EL34 (unidad A) como U8A.
+Anotado Optocoupler como U9.
+Anotado 1K 5W como R64.
+Anotado 220K como R53.
+Anotado 470 como R54.
+Anotado 100 como R55.
+Anotado 1K5 como R56.
+Anotado 1K5 como R57.
+Anotado 100 como R58.
+Anotado 68K como R59.
+Anotado 100K como R60.
+Anotado 10M como R61.
+Anotado 100K como R62.
+Anotado 1K 5W como R63.
+Anotado 1M como R4.
+Anotado 250K como RV1.
+Anotado 250k como RV2.
+Anotado 250K como RV3.
+Anotado 250k como RV4.
+Anotado 1M como RV5.
+Anotado 1M como RV6.
+Anotado 100K como RV7.
+Anotado 25KL como RV8.
+Anotado R_Potentiometer como RV9.
+Anotado 3M LIN como RV10.
+Anotado GND como #PWR036.
+Anotado GND como #PWR025.
+Anotado GND como #PWR026.
+Anotado GND como #PWR027.
+Anotado GND como #PWR028.
+Anotado GND como #PWR029.
+Anotado GND como #PWR030.
+Anotado GND como #PWR031.
+Anotado GND como #PWR032.
+Anotado GND como #PWR033.
+Anotado GND como #PWR034.
+Anotado GND como #PWR035.
+Anotado GND como #PWR024.
+Anotado GND como #PWR037.
+Anotado GND como #PWR038.
+Anotado GND como #PWR039.
+Anotado GND como #PWR040.
+Anotado GND como #PWR041.
+Anotado GND como #PWR042.
+Anotado GND como #PWR043.
+Anotado 50u 35V como C1.
+Anotado 25uF 25V como C2.
+Anotado 25uF 25V como C3.
+Anotado 64u 500V como C4.
+Anotado GND como #PWR013.
+Anotado GND como #PWR02.
+Anotado GND como #PWR03.
+Anotado GND como #PWR04.
+Anotado GND como #PWR05.
+Anotado GND como #PWR06.
+Anotado GND como #PWR07.
+Anotado GND como #PWR08.
+Anotado GND como #PWR09.
+Anotado GND como #PWR010.
+Anotado GND como #PWR011.
+Anotado GND como #PWR012.
+Anotado 470pF como C5.
+Anotado GND como #PWR014.
+Anotado GND como #PWR015.
+Anotado GND como #PWR016.
+Anotado GND como #PWR017.
+Anotado GND como #PWR018.
+Anotado GND como #PWR019.
+Anotado GND como #PWR020.
+Anotado GND como #PWR021.
+Anotado GND como #PWR022.
+Anotado GND como #PWR023.
+Anotado D como D3.
+Anotado 64u 500V como C29.
+Anotado 0.01 como C30.
+Anotado 0.01 como C31.
+Anotado 100u 100V como C32.
+Anotado 0.022 como C33.
+Anotado 25uF 25V como C34.
+Anotado .1 como C35.
+Anotado .1 como C36.
+Anotado 25uF 25V como C37.
+Anotado D como D1.
+Anotado D como D2.
+Anotado 64u 500V como C28.
+Anotado 2A como F1.
+Anotado Jack-DC como J1.
+Anotado Jack-DC como J2.
+Anotado Jack-DC como J3.
+Anotado Jack-DC como J4.
+Anotado Jack-DC como J5.
+Anotado Jack-DC como J6.
+Anotado 120 como L1.
+Anotado 1M como R1.
+Anotado 68k como R2.
+Anotado 68k como R3.
+Anotado .022 como C17.
+Anotado 250pF como C6.
+Anotado .1 como C7.
+Anotado .047 como C8.
+Anotado 250pF como C9.
+Anotado .1 como C10.
+Anotado .047 como C11.
+Anotado 120pF como C12.
+Anotado 120pF como C13.
+Anotado 32u 500V como C14.
+Anotado 25uF 25V como C15.
+Anotado 25uF 25V como C16.
+Anotado GND como #PWR01.
+Anotado 32u 500V como C18.
+Anotado .1 como C19.
+Anotado 10pF como C20.
+Anotado 64u 500V como C21.
+Anotado 64u 500V como C22.
+Anotado .003 como C23.
+Anotado .1 como C24.
+Anotado 0.1 como C25.
+Anotado .01 como C26.
+Anotado .1 como C27.
+Anotación completada.
