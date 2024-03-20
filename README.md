@@ -1,5 +1,5 @@
 
-# Novivox reverb
+# Novivox Reverb
 
 Vintage Guitar Tube Amplifier restoration and inverse engineering applied to obtain the electronic schematic.
 Novivox was a Spanish company that designed and built similar known guitar amplifiers 
